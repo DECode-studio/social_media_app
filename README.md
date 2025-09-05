@@ -1,5 +1,4 @@
-```markdown
-# Kabtour Social Media App
+## Kabtour Social Media App
 
 > A Flutter-based offline-first social media platform for tourism content sharing, built by **Nur Wahid Azhar**
 
