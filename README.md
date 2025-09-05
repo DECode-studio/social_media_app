@@ -66,8 +66,6 @@ Since the app is designed to work **without a backend**, authentication is handl
 - **Mock JWT** generation with expiration time
 - Passwords stored in plain text (for demo purposes only)
 
-> ⚠️ For production, use `flutter_secure_storage` and hashed passwords.
-
 ---
 
 ## 📁 Project Structure
