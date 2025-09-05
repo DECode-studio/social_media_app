@@ -103,8 +103,6 @@ lib/
 | **No Backend Required** | All operations (login, posting, managing) happen offline. |
 | **Simple UI with Blue Theme** | Clean, modern design focused on usability and accessibility. |
 
-> ❗ Assumption: This app will eventually connect to a real backend when online. Currently, it's a **demo version** for testing UI and logic.
-
 ---
 
 ## 👤 Developer Information
